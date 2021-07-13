@@ -200,3 +200,10 @@ ul.top_menu {
 .submit_swichi{
   text-align:center;
 }
+
+.point{
+  background-color: #FCECEC;
+}
+.point a{
+  color:#4D4D4D ;
+}
